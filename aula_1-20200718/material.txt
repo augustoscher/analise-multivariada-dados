@@ -5,3 +5,6 @@ ACP - Análise de componentes principais
 Exercício 1 - Rankear a melhor marca de coxinha utilizando tecnicas de ACP.
 - Usar software de preferência (biostat, spss, LHStat, Python)
 - Usar o dataset Dados Coxinha.xls
+
+Obter os pesos dos componentes principais
+Depois rankear conforme as melhores notas.
