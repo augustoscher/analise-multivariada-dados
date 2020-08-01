@@ -12,5 +12,3 @@ entre 4 indicadores de 45 empresas
 Rodar analise fatorial:
 Analize - Redução de dimensão - Fator
 
-
-Carga fatorial usada é 0,6 por conta de 96 casos

@@ -12,3 +12,24 @@ Dataset: Patrimônio x Ganho líquido
 Exercício 2.
 AF - Analise Fatorial
 Dataset: Distritos municipais, Renda Familiar e Quota Res.
+
+
+- Análise de KMO:
+
+- Análise Teste de esfericidade de Bartlett
+
+- Análise Matriz de Anti-Imagem
+
+- Análise Comunalidades
+Comunalidades com valor inferior a 0,5 mas 
+correlação da matriz de anti-imagem maior do que
+ 0,5 ainda são aceitáveis né
+
+
+
+- Análise Fatorial sobre a matriz de componente rotativa:
+Carga fatorial 0,6 está relacionada a quantidade de elementos analisados (96).
+
+Matriz de rotação: Verificado que a Zscore(QuotaRes) possui o maior valor dentro do fator 1.
+
+
