@@ -1,0 +1,14 @@
+= Resolução dos Exercícios
+
+Analisar os resultados, escrever o relatório com base
+no entendimento sobre a saída do software spss.
+
+Exercício 1. 
+ACP - Análise de Componentes Principais
+Dataset: Patrimônio x Ganho líquido 
+
+
+
+Exercício 2.
+AF - Analise Fatorial
+Dataset: Distritos municipais, Renda Familiar e Quota Res.
