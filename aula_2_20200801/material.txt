@@ -12,3 +12,6 @@ entre 4 indicadores de 45 empresas
 Rodar analise fatorial:
 Analize - Redução de dimensão - Fator
 
+
+Análise Discriminante
+
